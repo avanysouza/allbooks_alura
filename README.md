@@ -1,13 +1,15 @@
+Esse repositório contém um projeto fornecido pela Alura em sua formação de DevOps.
+
 # AllBooks 📖📚
 
-Esse repositório contém um projeto de loja virtual desenvolvido para prática de Git e GitHub, abordando os seguintes conteúdos:
+Loja virtual desenvolvido para prática de Git e GitHub, abordando os seguintes conteúdos:
 
 - Conhecer os principais comandos de trabalho no GitHub
 - Absorver conhecimentos em GitFlow e GitHub Actions
 - Aprender a lidar com commits, conflitos, issues e PRs
 - Organizar fluxos e projetos com GitHub Actions
 - Trabalhar com segurança e Dependabot
-
+  
 # JSONServer + JWT Auth
 
 Essa é uma API Rest mockada, utilizando json-server e JWT.
