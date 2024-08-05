@@ -1,8 +1,8 @@
-Esse repositório contém um projeto fornecido pela Alura em sua formação de DevOps.
+Esse repositório faz parte do curso de formação em DevOps realizado pela Alura. 
 
 # AllBooks 📖📚
 
-Loja virtual desenvolvido para prática de Git e GitHub, abordando os seguintes conteúdos:
+Projeto de loja virtual desenvolvido para prática de Git e GitHub, abordando os seguintes conteúdos:
 
 - Conhecer os principais comandos de trabalho no GitHub
 - Absorver conhecimentos em GitFlow e GitHub Actions
@@ -28,7 +28,7 @@ Você pode fazer isso efetuando uma requisição post para:
 POST http://localhost:8000/public/registrar
 ```
 
-Com os seguintes dados:
+Você pode utilizar os seguintes dados:
 
 
 ```
@@ -42,7 +42,7 @@ Com os seguintes dados:
 }
 ```
 
-Repare que o e-mail é um campo único e usuários com e-mails duplicados não serão persistidos.
+Observe que o e-mail é um campo único e usuários com e-mails duplicados não serão persistidos.
 
 ## 🛠️ Como fazer login?
 
@@ -78,3 +78,4 @@ E então, adicionar este mesmo token ao header das próximas requisições:
 ```
 Authorization: Bearer <ACCESS_TOKEN>
 ```
+
