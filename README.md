@@ -1,4 +1,4 @@
-Esse repositório faz parte do curso de formação em DevOps realizado pela Alura. 
+Esse repositório faz parte do curso de formação em DevOps realizado pela Alura e tem por objetivo a prática de Git e GitHub.
 
 # AllBooks 📖📚
 
