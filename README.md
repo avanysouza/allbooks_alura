@@ -1,8 +1,6 @@
-Esse repositório faz parte do curso de formação em DevOps realizado pela Alura. 
-
 # AllBooks 📖📚
 
-Projeto de loja virtual disponibilizado pela Alura para prática de Git e GitHub, abordando os seguintes conteúdos:
+Esse repositório faz parte do curso de formação em DevOps realizado pela Alura e tem por objetivo a prática de Git e GitHub. Durante o curso foram abordados os seguintes conteúdos:
 
 - Conhecer os principais comandos de trabalho no GitHub
 - Absorver conhecimentos em GitFlow e GitHub Actions
