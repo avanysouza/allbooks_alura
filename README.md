@@ -1,11 +1,18 @@
-# AllBooks
+Esse repositório faz parte do curso de formação em DevOps realizado pela Alura. 
 
-O AllBooks é uma loja virtual que vende livros da Casa do Código. 
-É um MVP que tá só começando e ainda tem muitas funcionalidades novas para serem desenvolvidas.
+# AllBooks 📖📚
 
+Projeto de loja virtual desenvolvido para prática de Git e GitHub, abordando os seguintes conteúdos:
+
+- Conhecer os principais comandos de trabalho no GitHub
+- Absorver conhecimentos em GitFlow e GitHub Actions
+- Aprender a lidar com commits, conflitos, issues e PRs
+- Organizar fluxos e projetos com GitHub Actions
+- Trabalhar com segurança e Dependabot
+  
 # JSONServer + JWT Auth
 
-Essa é ma API Rest mockada, utilizando json-server e JWT.
+Essa é uma API Rest mockada, utilizando json-server e JWT.
 
 ## 🛠️ Instalação
 
@@ -21,7 +28,7 @@ Você pode fazer isso efetuando uma requisição post para:
 POST http://localhost:8000/public/registrar
 ```
 
-Com os seguintes dados:
+Você pode utilizar os seguintes dados:
 
 
 ```
@@ -35,7 +42,7 @@ Com os seguintes dados:
 }
 ```
 
-Repare que o e-mail é um campo único e usuários com e-mails duplicados não serão persistidos.
+Observe que o e-mail é um campo único e usuários com e-mails duplicados não serão persistidos.
 
 ## 🛠️ Como fazer login?
 
@@ -71,3 +78,4 @@ E então, adicionar este mesmo token ao header das próximas requisições:
 ```
 Authorization: Bearer <ACCESS_TOKEN>
 ```
+
