@@ -7,6 +7,9 @@ Esse repositório faz parte do curso de formação em DevOps realizado pela Alur
 - Aprender a lidar com commits, conflitos, issues e PRs
 - Organizar fluxos e projetos com GitHub Actions
 - Trabalhar com segurança e Dependabot
+
+# Certificado
+![image](https://github.com/user-attachments/assets/b470dc7a-4204-4205-8025-d64a05fcdaba)
   
 # JSONServer + JWT Auth
 
